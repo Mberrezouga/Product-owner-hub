@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Product-owner-hub/static/css/main.bffa4e85.css",
+    "main.js": "/Product-owner-hub/static/js/main.135447fd.js",
+    "index.html": "/Product-owner-hub/index.html",
+    "main.bffa4e85.css.map": "/Product-owner-hub/static/css/main.bffa4e85.css.map",
+    "main.135447fd.js.map": "/Product-owner-hub/static/js/main.135447fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffa4e85.css",
+    "static/js/main.135447fd.js"
+  ]
+}
